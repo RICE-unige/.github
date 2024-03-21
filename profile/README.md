@@ -1,5 +1,5 @@
 
-|<img src="../imgs/rice_lab_logo.png" width="200"/> |<h1><a href="https://rice.dibris.unige.it/">RICE (<strong>R</strong>obots and <strong>I</strong>ntelligent Systems for <strong>C</strong>itizens and the <strong>E</strong>nvironment)</a></h1>|
+|<img src="imgs/rice_lab_logo.png" width="200"/> |<h1><a href="https://rice.dibris.unige.it/">RICE (<strong>R</strong>obots and <strong>I</strong>ntelligent Systems for <strong>C</strong>itizens and the <strong>E</strong>nvironment)</a></h1>|
 |:-:|:-|
 
 RICE (Robots and Intelligent Systems for Citizens and the Environment) is a laboratory of the Department of Computer Science, Bioengineering, and Systems Engineering (DIBRIS) at the University of Genoa, founded in 2022.
