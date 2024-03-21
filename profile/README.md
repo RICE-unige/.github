@@ -1,8 +1,8 @@
 
-| <img alt="rice_lab_logo" width="400%" src="https://github.com/RICE-unige/.github/assets/67521465/242ffccc-bce8-429f-9781-0a41f12c2d7d"> |<h1><a href="https://rice.dibris.unige.it/">**RICE** (**R**obots and **I**ntelligent Systems for **C**itizens and the **E**nvironment)</a></h1>|
+|![rice_lab_logo](https://github.com/RICE-unige/.github/assets/67521465/242ffccc-bce8-429f-9781-0a41f12c2d7d) |<h1><a href="https://rice.dibris.unige.it/">**RICE** (**R**obots and **I**ntelligent Systems for **C**itizens and the **E**nvironment)</a></h1>|
 |:-:|:-|
 
-**RICE** (**R**obots and **I**ntelligent Systems for **C**itizens and the **E**nvironment) is a laboratory of the Department of Computer Science, Bioengineering, and Systems Engineering (DIBRIS) at the University of Genoa, founded in 2022.
+**RICE** (**R**obots and **I**ntelligent Systems for **C**itizens and the **E**nvironment) is a laboratory of the [Department of Computer Science, Bioengineering, and Systems Engineering](https://dibris.unige.it/en) (DIBRIS) at the [University of Genoa](https://unige.it/en), founded in 2022.
 
 RICE aims to develop intelligent robotic solutions closely aligned with the needs of society. Its objective is not only to create new technologies centered around humans and their needs but also to disseminate the findings of researchers exploring these aspects worldwide.
 
