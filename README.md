@@ -1,3 +1,5 @@
+# RICE (Robots and Intelligent Systems for Citizens and the Environment)
+
 RICE (Robots and Intelligent Systems for Citizens and the Environment) is a laboratory of the Department of Computer Science, Bioengineering, and Systems Engineering (DIBRIS) at the University of Genoa, founded in 2022.
 
 RICE aims to develop intelligent robotic solutions closely aligned with the needs of society. Its objective is not only to create new technologies centered around humans and their needs but also to disseminate the findings of researchers exploring these aspects worldwide.
