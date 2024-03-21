@@ -1,12 +1,10 @@
-## Hi there 👋
+# RICE (Robots and Intelligent Systems for Citizens and the Environment)
 
-<!--
+RICE (Robots and Intelligent Systems for Citizens and the Environment) is a laboratory of the Department of Computer Science, Bioengineering, and Systems Engineering (DIBRIS) at the University of Genoa, founded in 2022.
 
-**Here are some ideas to get you started:**
+RICE aims to develop intelligent robotic solutions closely aligned with the needs of society. Its objective is not only to create new technologies centered around humans and their needs but also to disseminate the findings of researchers exploring these aspects worldwide.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In this perspective, RICE focuses on two main areas of research: the development of “intelligent” humanoid social robots to assist and aid people, and the advancement of terrestrial and aerial autonomous robots for environmental monitoring and search and rescue operations after catastrophic events.
+
+In the awareness that RICE, despite its humble nature, is the main food for human beings on Earth.
+
